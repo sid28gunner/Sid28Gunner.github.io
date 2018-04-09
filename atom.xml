@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Siddharth Chakraborty</title>
+  
+  <subtitle>Blogging about all cool things</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://DigitConsultancy.github.io/"/>
+  <updated>2018-04-08T18:34:23.283Z</updated>
+  <id>http://DigitConsultancy.github.io/</id>
+  
+  <author>
+    <name>Siddharth Chakraborty</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Creating your First Blog using Static File Generator Technology</title>
+    <link href="http://DigitConsultancy.github.io/2018/04/hello-world/"/>
+    <id>http://DigitConsultancy.github.io/2018/04/hello-world/</id>
+    <published>2018-04-07T18:30:00.000Z</published>
+    <updated>2018-04-08T18:34:23.283Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/Blog.jpg" alt="Blog"> Welcome to creating your first blog using Hexo.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Installation"><a href="#Installation" class="headerlink" title="Installation"></a>Installation</h3><p>Install the hexo cli globally using npm<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install -g hexo-cli</span><br></pre></td></tr></table></figure></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo init</span><br></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><h3 id="Generate-RSS-Feeds"><a href="#Generate-RSS-Feeds" class="headerlink" title="Generate RSS Feeds"></a>Generate RSS Feeds</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install hexo-generator-feed --save</span><br></pre></td></tr></table></figure><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/images/Blog.jpg&quot; alt=&quot;Blog&quot;&gt; Welcome to creating your first blog using Hexo.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; c
+      
+    
+    </summary>
+    
+    
+      <category term="Hexo" scheme="http://DigitConsultancy.github.io/tags/Hexo/"/>
+    
+      <category term="Writing Blog" scheme="http://DigitConsultancy.github.io/tags/Writing-Blog/"/>
+    
+  </entry>
+  
+</feed>
